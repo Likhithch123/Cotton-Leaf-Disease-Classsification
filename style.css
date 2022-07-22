@@ -17,7 +17,7 @@ body {
     top: 20%;
     border: 6px solid #333;
     border-radius: 20px;
-    border-style: dashed;
+    border-style: solid;
     margin: 0 auto;
     text-align: center;
     overflow: auto;
